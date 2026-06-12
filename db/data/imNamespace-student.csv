@@ -1,0 +1,6 @@
+ID,NAME,CLASS_ID,GENDER,AGE,street,city,state,postalCode
+S1,Rahul,STD1,M,15,MG Road,Bangalore,Karnataka,560001
+S2,Priya,STD2,F,14,Brigade Road,Bangalore,Karnataka,560025
+S3,Kiran,STD1,M,15,Banjara Hills,Hyderabad,Telangana,500034
+S4,Ananya,STD3,F,13,T Nagar,Chennai,Tamil Nadu,600017
+S5,Vikram,STD4,M,12,Kothrud,Pune,Maharashtra,411038

@@ -1,0 +1,5 @@
+{
+  "scopes": [],  // An array to define the scopes applicable to the role or entity
+  "attributes": [],  // An array to specify any attributes related to the role or entity
+  "role-templates": []  // An array to hold templates for roles that can be reused or extended
+}
